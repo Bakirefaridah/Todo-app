@@ -42,6 +42,7 @@ const Calculator = () => {
       value={total}
       
       />
+      <button>click me</button>
       
     </div>
   )
